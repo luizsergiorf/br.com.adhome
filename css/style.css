@@ -881,7 +881,7 @@ h5,
 
 .site-blocks-cover,
 .site-blocks-cover>.container>.row {
-  min-height: 1100px;
+  min-height: 1200px;
   height: calc(100vh);
 }
 
